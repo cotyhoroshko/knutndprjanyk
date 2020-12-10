@@ -1,6 +1,5 @@
 # knutndprjanyk
 
-+ program 
-i feel
-some
-thing
++ program\n 
+i feel\n
+something
